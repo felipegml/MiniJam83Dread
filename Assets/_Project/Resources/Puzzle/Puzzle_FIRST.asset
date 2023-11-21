@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec0727d60415ad1429af139a52dc010c, type: 3}
+  m_Name: Puzzle_FIRST
+  m_EditorClassIdentifier: 
+  time: 240
+  first: 1
+  last: 0
+  message: '"This can''t be happening."'
+  puzzleType: 0
+  doorPrefab: {fileID: 7011271552109023458, guid: 096465471ee49aa49a9215c8ce55b723,
+    type: 3}
+  puzzlePrefab: {fileID: 8527374655766865389, guid: b96ecc049c04afc4bb431c7fd896ceb3,
+    type: 3}
+  numberSequence: 010000000200000006000000
+  directionSequence: 020000000300000001000000
+  diceSequence:
+  - {fileID: 7905775647521661553, guid: 99d0d45d63bad3a45aa1df19b428d631, type: 3}
+  - {fileID: 7905775647521661553, guid: 99d0d45d63bad3a45aa1df19b428d631, type: 3}
+  - {fileID: 7905775647521661553, guid: 99d0d45d63bad3a45aa1df19b428d631, type: 3}

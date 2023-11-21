@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 5cbc0baedd88a7f4b96c5b6620a8e926
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Acumin Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aa2368b78163c0c49bbee945cde842a6, type: 3}
+  - {fileID: 12800000, guid: d9f342e0024b0b04c8867ee8c3bc76c7, type: 3}
+  - {fileID: 12800000, guid: bb3770f3b1e17584a893607693774cd3, type: 3}
+  - {fileID: 12800000, guid: 4aec680b7f407244ab89d835bc030453, type: 3}
+  - {fileID: 12800000, guid: daebf0b680b92f6418c49c3f521c97f4, type: 3}
+  - {fileID: 12800000, guid: 254990292fcdae444894eb576c7c3e11, type: 3}
+  - {fileID: 12800000, guid: d72a228af0b86954faffcf4d78eac0c3, type: 3}
+  - {fileID: 12800000, guid: aa1819ac1cc55ec4cbbcf8ee351899f1, type: 3}
+  - {fileID: 12800000, guid: 02362b9b9cc7b04469f4798396fa5d46, type: 3}
+  - {fileID: 12800000, guid: 820c69a3ea95e7b459a826db84ad82ca, type: 3}
+  - {fileID: 12800000, guid: 5cf85203caf61a249951042c53641986, type: 3}
+  - {fileID: 12800000, guid: d41ad23f59b499546aa56678935f7e37, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
